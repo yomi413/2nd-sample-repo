@@ -1,1 +1,1 @@
-As we learn about code and programming, the goal is to be able to translate our new knowledge into practice. How do we go about do that without feeling overwhelmed and frustrated with every move we make, when we feel that every move is the wrong move?
+As we learn about coding and programming, the goal is to be able to translate our new knowledge into practice. How do we go about doing that without feeling overwhelmed and frustrated with every move we make, especially when we feel that every move is the wrong move?
